@@ -51,18 +51,6 @@ These results demonstrate the effectiveness of deep learning techniques for medi
 3. Open the notebook:
 4. Run all cells sequentially.
 
-## Project Structure
-Skin-Cancer-Detection/
-│
-├── skin_cancer_detection.ipynb
-├── README.md
-├── requirements.txt
-├── outputs/
-│ ├── accuracy_plot.png
-│ └── confusion_matrix.png
-└── .gitignore
-
-
 ## Future Improvements
 - Apply transfer learning (ResNet, VGG, EfficientNet)
 - Improve recall for malignant cases
@@ -71,3 +59,4 @@ Skin-Cancer-Detection/
 
 ## Disclaimer
 This project is for educational and research purposes only and is not intended for clinical use.
+
